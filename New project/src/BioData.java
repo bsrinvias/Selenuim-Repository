@@ -26,7 +26,7 @@ public  void Office(){
 		BioData.Name();
 		BioData.Class();
 		BioData.Course();
-		BioData Col=new BioData();
+		//BioData Col=new BioData();
 		Col.College();
 		Col.Office();
 	}
