@@ -1,0 +1,20 @@
+﻿Release Dashboard
+
+http://fc8qlikpv/QvAJAXZfc/opendoc.htm?document=MT/ReleaseDashboard.qvw&host=QVSCluster%40FC8GF
+
+
+
+
+
+
+
+AGS-
+
+JIRA- https://jirahyd.epam.com/jira/browse/AACT-4039ыHi Paul,
+
+It’s an LDAP Issue-Same User was using by another system. Below are EMS instances.
+
+fc8clntm01-fc8fguim03
+fc8clntm06-fc8fguim01
+
+
